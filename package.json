@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "node backend.js",
-    "build": "react-scripts build",
+    "build": "node backend.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
