@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseURL="http://localhost:2410";
+const baseURL="https://youthlab-assign.onrender.com";
 function get(url)
 {   console.log(url)
     return axios.get(baseURL + url);

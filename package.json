@@ -18,8 +18,8 @@
     "webpack": "^5.98.0"
   },
   "scripts": {
-    "start": "node backend.js",
-    "build": "node backend.js",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
